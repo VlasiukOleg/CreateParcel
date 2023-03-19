@@ -1,0 +1,25 @@
+{
+  "name": "createparcel",
+  "version": "1.0.0",
+  "description": "Create and config parcel",
+  "main": "index.js",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VlasiukOleg/CreateParcel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VlasiukOleg/CreateParcel/issues"
+  },
+  "homepage": "https://github.com/VlasiukOleg/CreateParcel#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
